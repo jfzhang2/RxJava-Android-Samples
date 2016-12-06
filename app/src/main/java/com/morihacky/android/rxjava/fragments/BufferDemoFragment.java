@@ -28,6 +28,7 @@ import rx.functions.Func1;
 import timber.log.Timber;
 
 /**
+ * 测试
  * This is a demonstration of the `buffer` Observable.
  *
  * The buffer observable allows taps to be collected only within a time span. So taps outside the
